@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Alicia Lee's Portfolio!
 
 You can use the [editor on GitHub](https://github.com/aliciajlee/aliciajlee.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 

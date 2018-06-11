@@ -10,6 +10,8 @@
 ## Plug
 *Wellesley Hackathon Project, Fall 2017*
 
+[Launch Site](https://aliciajlee.github.io/Plug/)
+
 ## Feed
 *Girls Who Code Final Group Project, Summer 2016*
 

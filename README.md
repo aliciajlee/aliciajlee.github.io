@@ -2,10 +2,13 @@
 
 
 ## Roll-A-Ball Game
+*Summer 2018 Side Project*
 
 ## Course-Connector
+*CS 230 Data Structures Group Final Project*
 
 ## Plug
+*Wellesley Hackathon Project, Fall 2017*
 
 ## Feed
 *Girls Who Code Final Group Project, Summer 2016*

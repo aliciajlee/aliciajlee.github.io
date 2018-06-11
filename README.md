@@ -10,6 +10,8 @@
 ## Feed
 [Presentation Slides](https://docs.google.com/presentation/d/14OPGsB98vPvlWRRXpHc82Rqpk7fnCCp_prPhfxGCalE/edit?usp=sharing)
 
+![Pic 1](/img/Screen Shot 2018-06-11 at 10.43.13 AM.png)
+
 ### Javascript
 * Sorting algorithm drop down menu that sorts pictures by price, rating, dietary restrictions, location, or shuffle
 

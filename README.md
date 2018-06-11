@@ -4,13 +4,25 @@
 ## Roll-A-Ball Game
 *Side Project, Summer 2018*
 
+**Unity** and **C#**
+
 ## Course-Connector
 *CS 230 Data Structures Group Final Project, Spring 2018*
+
+### Java
+*Implemented a **graph** to store students
 
 ## Plug
 *Wellesley Hackathon Project, Fall 2017*
 
 [Launch Site](https://aliciajlee.github.io/Plug/)
+
+### HTML
+* customized Bootstrap template to create conceptual launch site
+
+### UI/UX Design
+* used Marvel wireframing service to design wireframes for our app
+
 
 ## Feed
 *Girls Who Code Final Group Project, Summer 2016*

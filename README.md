@@ -15,10 +15,14 @@
 ### Javascript
 * Sorting algorithm drop down menu that sorts pictures by price, rating, dietary restrictions, location, or shuffle
 
+![Pic 2](aliciajlee.github.io/img/sort.png)
+
 ### HTML 
 * Nav bar with drop down menus and links to other pages
 * Grid layout of images 
 * Assigning attributes to each image, such as dish name, location of the restaurant, dish price, rating, and having the pictures enlarge in a window when clicked.
+
+![Pic 3](aliciajlee.github.io/img/upload.png)
 
 ### CSS
 * Designing the navigation bar
@@ -26,6 +30,5 @@
 * Adding search bar and search icon to the nav bar
 * Adding color scheme 
 
-
-
+![Pic 4](aliciajlee.github.io/img/login.png)
 

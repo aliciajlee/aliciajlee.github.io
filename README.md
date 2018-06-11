@@ -8,6 +8,7 @@
 ## Plug
 
 ## Feed
+*Girls Who Code Final Group Project, Summer 2016*
 [Presentation Slides](https://docs.google.com/presentation/d/14OPGsB98vPvlWRRXpHc82Rqpk7fnCCp_prPhfxGCalE/edit?usp=sharing)
 
 ![Pic 1](aliciajlee.github.io/img/home.png)

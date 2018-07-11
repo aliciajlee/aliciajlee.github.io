@@ -1,12 +1,6 @@
 # Projects
 
 
-## Roll-A-Ball Game
-*Side Project, Summer 2018*
-
-**Unity** and **C#**
-
-
 ## Course-Connector
 *CS 230 Data Structures Group Final Project, Spring 2018*
 

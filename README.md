@@ -6,6 +6,7 @@
 
 **Unity** and **C#**
 
+
 ## Course-Connector
 *CS 230 Data Structures Group Final Project, Spring 2018*
 
@@ -16,6 +17,8 @@
 *Wellesley Hackathon Project, Fall 2017*
 
 [Launch Site](https://aliciajlee.github.io/Plug/)
+[Github Repo](https://github.com/aliciajlee/Plug)
+
 
 ### HTML
 * customized Bootstrap template to create conceptual launch site

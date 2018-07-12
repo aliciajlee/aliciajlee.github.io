@@ -22,6 +22,8 @@
 [Launch Site](https://aliciajlee.github.io/Plug/) |
 [Github Repo](https://github.com/aliciajlee/Plug)
 
+![Pic 5](aliciajlee.github.io/img/plug1.png)
+![Pic 6](aliciajlee.github.io/img/plug2.png)
 
 ### HTML
 * customized Bootstrap template to create conceptual launch site

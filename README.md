@@ -4,6 +4,8 @@
 ## Course-Connector
 *CS 230 Data Structures Group Final Project, Spring 2018*
 
+![Pic 3](aliciajlee.github.io/img/Screen Shot 2018-07-11 at 3.16.08 PM.png)
+
 ### Java
 *Implemented a **graph** to store students
 

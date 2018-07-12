@@ -11,8 +11,9 @@
 ![Pic 3](aliciajlee.github.io/img/Screen Shot 2018-07-11 at 3.16.08 PM.png)
 ![Pic 4](aliciajlee.github.io/img/Screen Shot 2018-07-11 at 3.16.46 PM.png)
 
-### Java
-*Implemented a **graph** to store students
+### Java/Data Structures
+* Implemented a **graph** to store students
+* Implemented a GUI to display results
 
 
 

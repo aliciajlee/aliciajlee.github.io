@@ -8,8 +8,7 @@
 [User Manual](https://docs.google.com/document/d/10Vn2KCdLEr9AOBM4kcwZwQS7zYHJWkHHsxLlp-CN7sU/edit?usp=sharing) |
 [Github Repo](https://github.com/aliciajlee/CourseConnector)
 
-//![Pic 3](aliciajlee.github.io/img/Screen Shot 2018-07-11 at 3.16.08 PM.png)
-//![Pic 4](aliciajlee.github.io/img/Screen Shot 2018-07-11 at 3.16.46 PM.png)
+
 
 ### Java/Data Structures
 * Implemented a **graph** to store students
